@@ -12,6 +12,7 @@ mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a
 include: ["_pages"]
 permalink: /:title/
 email: wowthemesnet@gmail.com
+encoding: utf-8
 
 # Authors
 authors:
@@ -23,14 +24,14 @@ authors:
     web: https://www.wowthemes.net/donate/
     twitter: https://twitter.com/wowthemesnet
     description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
+  johnny:
+    name: Johnny
+    display_name: Johnny    
     avatar: 'assets/images/avatar.png'
-    email: wowthemesnet@gmail.com
+    email: svandasek@seznam.cz
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+    description: "23yo country boy looking to see places. Digital nomad, biker, mountain and sports lover."
 
 # Plugins
 plugins:

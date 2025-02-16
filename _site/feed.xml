@@ -1,35 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Memoirs</title>
+    <title>Jan Svanda</title>
     <description>I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!</description>
-    <link>http://localhost:4000/jekyll-theme-memoirs/</link>
-    <atom:link href="http://localhost:4000/jekyll-theme-memoirs/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 Feb 2025 12:31:20 +0100</pubDate>
-    <lastBuildDate>Sun, 16 Feb 2025 12:31:20 +0100</lastBuildDate>
-    <generator>Jekyll v4.4.1</generator>
+    <link>http://localhost:4000/blog/</link>
+    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 16 Feb 2025 21:21:36 +0100</pubDate>
+    <lastBuildDate>Sun, 16 Feb 2025 21:21:36 +0100</lastBuildDate>
+    <generator>Jekyll v3.10.0</generator>
     
       <item>
-        <title>Les Ambassadeurs, the first Restaurant we Visited in Paris</title>
-        <description>&lt;p&gt;Within the Hôtel de Crillon, which was built in 1758, Les Ambassadeurs operated as a restaurant since the mid-19th century. It reached its peak of fame as a restaurant and nightclub (a café-concert) in the last three decades of the 19th century.&lt;/p&gt;
-
-&lt;p&gt;Always a center of entertainment for the aristocracy, in the 1870s it also became a regular destination of some of the best known figures of art and the demi-monde. Edgar Degas and Henri de Toulouse-Lautrec portrayed visitors at the night club, and Aristide Bruant performed there.&lt;/p&gt;
+        <title>Můj úplně první blog post</title>
+        <description>&lt;p&gt;Je 16. února 2025 a příprava na dlouho očekáváný USA trip je v plném proudu. 
+Po vzoru starších a s naší oblíbenou hláškou:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;It was decorated in an 18th-century rococo style, redesigned by Sybille de Margérie with furnishings by Sonia Rykiel.&lt;/p&gt;
+  &lt;p&gt;Všude dobře, tak co doma&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Following a renovation of the hotel in 1981–85, the restaurant occupied a former private ballroom with windows looking out on the Place de la Concorde, a few hundred meters from the Palais Garnier.&lt;/p&gt;
+&lt;p&gt;se vydáváme přes velkou louži na velké dobrodružství. Čeká nás 17 dní ve světě, kde si lidé plní své americké sny a nebojí se jít za svými cíli.&lt;/p&gt;
 
-&lt;p&gt;Les Ambassadeurs had two Michelin stars. In the last decade of its operation, chef was Dominique Bouchet  followed by Jean-François Piège and finally when the hotel closed in 2013 for an extended renovation, Christopher Hache.&lt;/p&gt;
+&lt;p&gt;Aktuálně po volbě Trumpa je to docela krušné období, napjaté politické vztahy s Evropskými státy nás nedělají klidnějšími, ale snad přes kontrolní prohlídku prolezeme.&lt;/p&gt;
 
-&lt;p&gt;In 2017 Hache opened a smaller restaurant, L’Écrin, within the renovated hotel; the former space of Les Ambassadeurs became a bar.&lt;/p&gt;
+&lt;p&gt;Drona sebou, a jelikož má více jak 450g, tak jsem si radši zjistil, co je potřeba splňovat pro létání dronu nad 450g+. Pro rekreační létání dronů v US je potřeba udělat si tento online &lt;a href=&quot;https://trust.modelaircraft.org/&quot;&gt;TRUST certifikát&lt;/a&gt;, který je zdarma a trvá jen asi &lt;em&gt;10-15 minut&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Na co nezapomenout?&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;udělat si ESTA vízum&lt;/li&gt;
+  &lt;li&gt;cestovni pas (platný 6 měsíců po návratu z US)&lt;/li&gt;
+  &lt;li&gt;udělat radši kopii cestovního pasu&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Sun, 02 Feb 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/jekyll-theme-memoirs/les-ambassadeurs/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/les-ambassadeurs/</guid>
+        <pubDate>Sun, 16 Feb 2025 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/les-ambassadeurs/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/les-ambassadeurs/</guid>
         
-        <category>France</category>
+        <category>Czechia</category>
         
         
         <category>Lifestyle</category>
@@ -47,8 +53,8 @@
 &lt;p&gt;For several hundred thousand years, the Sahara has alternated between desert and savanna grassland in a 20,000 year cycle caused by the precession of the Earth’s axis as it rotates around the Sun, which changes the location of the North African Monsoon. The area is next expected to become green in about 15,000 years (17,000 AD).&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Feb 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/jekyll-theme-memoirs/much-more-than-a-desert-trip-to-sahara/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/much-more-than-a-desert-trip-to-sahara/</guid>
+        <link>http://localhost:4000/blog/much-more-than-a-desert-trip-to-sahara/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/much-more-than-a-desert-trip-to-sahara/</guid>
         
         
         <category>Travel</category>
@@ -72,8 +78,8 @@
 &lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
 </description>
         <pubDate>Sun, 12 Jan 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/jekyll-theme-memoirs/one-day-just-started-adventure/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/one-day-just-started-adventure/</guid>
+        <link>http://localhost:4000/blog/one-day-just-started-adventure/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/one-day-just-started-adventure/</guid>
         
         
         <category>Travel</category>
@@ -97,8 +103,8 @@
 &lt;p&gt;Until 1959, the sentries at Buckingham Palace were stationed outside the fence. This stopped following an incident involving a female tourist and a Coldstream Guardsman – due to the continued pestering by tourists and sightseers, the guardsman kicked the tourist on the ankle as he marched. The tourist made a complaint to the police and the sentry was confined to barracks for ten days. Not long after, the sentries were moved inside the fence.&lt;/p&gt;
 </description>
         <pubDate>Sun, 12 Jan 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/jekyll-theme-memoirs/london/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/london/</guid>
+        <link>http://localhost:4000/blog/london/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/london/</guid>
         
         
         <category>Travel</category>
@@ -125,8 +131,8 @@
 
 </description>
         <pubDate>Sun, 12 Jan 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/jekyll-theme-memoirs/external-featured-image/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/external-featured-image/</guid>
+        <link>http://localhost:4000/blog/external-featured-image/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/external-featured-image/</guid>
         
         <category>France</category>
         
@@ -161,8 +167,8 @@
 &lt;/code&gt;&lt;/pre&gt;
 </description>
         <pubDate>Sat, 11 Jan 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/jekyll-theme-memoirs/post-with-spoiler/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/post-with-spoiler/</guid>
+        <link>http://localhost:4000/blog/post-with-spoiler</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/post-with-spoiler</guid>
         
         <category>Movies</category>
         
@@ -186,8 +192,8 @@
 &lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/jekyll-theme-memoirs/that-day-we-almost-missed-flight/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/that-day-we-almost-missed-flight/</guid>
+        <link>http://localhost:4000/blog/that-day-we-almost-missed-flight/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/that-day-we-almost-missed-flight/</guid>
         
         
         <category>Travel</category>
@@ -217,8 +223,8 @@ rating: 4.5
 &lt;/code&gt;&lt;/pre&gt;
 </description>
         <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/jekyll-theme-memoirs/review-oscar/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/review-oscar/</guid>
+        <link>http://localhost:4000/blog/review-oscar/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/review-oscar/</guid>
         
         <category>Movies</category>
         
@@ -244,8 +250,8 @@ rating: 4.5
 &lt;p&gt;Although some producers have benefited in recent years from rising prices and increased demand for some of the prestige wines from Burgundy and Bordeaux, the French wine industry has seen a decline in domestic consumption and internationally, it has had to compete with many new world wines.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/jekyll-theme-memoirs/french-wine/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/french-wine/</guid>
+        <link>http://localhost:4000/blog/french-wine/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/french-wine/</guid>
         
         <category>France</category>
         
@@ -269,8 +275,8 @@ rating: 4.5
 &lt;p&gt;The Gallery often presents temporary special exhibitions spanning the world and the history of art. It is one of the largest museums in North America.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/jekyll-theme-memoirs/the-observer/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/the-observer/</guid>
+        <link>http://localhost:4000/blog/the-observer/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/the-observer/</guid>
         
         
         <category>Lifestyle</category>
