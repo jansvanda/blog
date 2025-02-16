@@ -1,0 +1,18 @@
+current directory: /Users/jansvanda/development/blog/.bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/jansvanda/development/blog/.bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250216-91275-x5g01s sitelibdir\=./.gem.20250216-91275-x5g01s clean
+
+current directory: /Users/jansvanda/development/blog/.bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250216-91275-x5g01s sitelibdir\=./.gem.20250216-91275-x5g01s
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/jansvanda/development/blog/.bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250216-91275-x5g01s sitelibdir\=./.gem.20250216-91275-x5g01s install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250216-91275-x5g01s/racc
+
+current directory: /Users/jansvanda/development/blog/.bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250216-91275-x5g01s sitelibdir\=./.gem.20250216-91275-x5g01s clean
