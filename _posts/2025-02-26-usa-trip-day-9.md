@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "USA day 8 - Joshua Tree"
+title:  "USA day 9 - Joshua Tree morning"
 author: johnny
 categories: [ Travel ]
 tags: [ USA ]
 image: assets/images/2.png
 beforetoc: ""
-rating: 5
 ---
 
 Vstáváme v Joshua National Park ve stanu 

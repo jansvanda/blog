@@ -6,7 +6,6 @@ categories: [ Travel ]
 tags: [ USA ]
 image: assets/images/2.png
 beforetoc: "Poprvé v životě."
-rating: 5
 ---
 
 Je 18. února 2025 a právě sedíme v Airbusu A380, největším komerčním letadle na planetě, s kapacitou 550+ lidí, a zbývá nám 30 minut do přistání v Los Angeles.

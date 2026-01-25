@@ -5,7 +5,6 @@ author: johnny
 categories: [ Lifestyle ]
 tags: [ USA ]
 image: assets/images/2.png
-rating: 5
 ---
 
 Je 16. února 2025 a příprava na dlouho očekáváný USA trip je v plném proudu. 

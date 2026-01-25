@@ -6,7 +6,6 @@ categories: [ Travel ]
 tags: [ USA ]
 image: assets/images/2.png
 beforetoc: "Ventura a Santa Barbara - 'To by byl záběr.'"
-rating: 5
 ---
 
 

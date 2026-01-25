@@ -6,7 +6,6 @@ categories: [ Travel ]
 tags: [ USA ]
 image: assets/images/2.png
 beforetoc: "Město které připomína GTA a Malibu 21 miles of scenic beauty"
-rating: 5
 ---
 
 1. Ráno jsme zašli do obchodu pro snídáni, kterou jsme si snědli při rozbřesku LA na nádvoří hotelu.

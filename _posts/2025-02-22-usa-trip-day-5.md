@@ -6,7 +6,6 @@ categories: [ Travel ]
 tags: [ USA ]
 image: assets/images/2.png
 beforetoc: "Morava na steroidech"
-rating: 5
 ---
 
 Ráno jsme vyšli z hotelu Cottage Inn podél pláže směrem k Pismo beach molu a tam jsme si popovídali s nějakým místním párem. Pán byl učitel na soukromé základce a dozvěděli jsme se jeho zajímavý pohled na věci a doporučil nám nějaké místa.

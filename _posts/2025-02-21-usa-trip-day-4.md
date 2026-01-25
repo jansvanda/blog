@@ -6,7 +6,6 @@ categories: [ Travel ]
 tags: [ USA ]
 image: assets/images/2.png
 beforetoc: "Just go with the flow"
-rating: 5
 ---
 
 Vzbudli jsme se, bolest v krku nás opadla, sbalili jsme FPV dron a šli na pláž.

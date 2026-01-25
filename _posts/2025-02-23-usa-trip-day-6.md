@@ -6,7 +6,6 @@ categories: [ Travel ]
 tags: [ USA ]
 image: assets/images/2.png
 beforetoc: "Tady mají rýmu i tuleni"
-rating: 5
 ---
 
 

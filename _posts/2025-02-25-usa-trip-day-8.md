@@ -6,7 +6,6 @@ categories: [ Travel ]
 tags: [ USA ]
 image: assets/images/2.png
 beforetoc: "You dont have to be faster than the bear, you just have to be faster than your friends"
-rating: 5
 ---
 
 Dnes jsme vstali v přejezdovém Motelu Days Inn v Barstow a posnídali na recepci z plastového nádobí. Holt to tady tak mají, že všechno i třeba toaleťák mají zabalené v sáčku. Kovovej příbor jsem taky už nějaký čas neviděl.
