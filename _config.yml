@@ -8,10 +8,10 @@ baseurl: "/blog"
 url: https://jansvanda.github.io
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: svandasek@seznam.cz
 encoding: utf-8
 
 # Authors
@@ -27,11 +27,11 @@ authors:
   johnny:
     name: Johnny
     display_name: Johnny    
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/jan-avatar.png'
     email: svandasek@seznam.cz
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "23yo country boy looking to see places. Digital nomad, biker, mountain and sports lover."
+    web: https://www.jansvanda.github.io
+    twitter: https://x.com/honzajefreak
+    description: "24yo country boy looking to see places. Digital nomad, biker, mountain and sports lover."
 
 # Plugins
 plugins:

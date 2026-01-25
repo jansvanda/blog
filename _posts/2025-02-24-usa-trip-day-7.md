@@ -6,7 +6,6 @@ categories: [ Travel ]
 tags: [ USA ]
 image: assets/images/2.png
 beforetoc: "Těším se dom, protože se bojím, že bych tady zůstal"
-rating: 5
 ---
 
 Dnes jsme vstali v Porterville v hotelu Inn se snídání, která docela ušla. Všechno zabalené v plastu ale tak to tady holt funguje.
