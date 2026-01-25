@@ -3,7 +3,7 @@ layout: post
 title:  "Můj úplně první blog post"
 author: johnny
 categories: [ Lifestyle ]
-tags: [ Czechia ]
+tags: [ USA ]
 image: assets/images/2.png
 rating: 5
 ---
